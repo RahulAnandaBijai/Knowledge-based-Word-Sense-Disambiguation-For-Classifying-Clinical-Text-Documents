@@ -1,4 +1,7 @@
-# MedTextClassifier: Knowledge-based Word Sense Disambiguation for classifying clinical text documents
+# Knowledge-based-Word-Sense-Disambiguation-For-Classifying-Clinical-Text-Documents
+
+**Authors** - Rahul Ananda Bijai, Sahil Aneja
+
 **Languages** - Python, Java, XML/XMI
 
 **Python Libraries** - numpy, pandas, matplotlib, seaborn, sklearn, imblearn, nltk
